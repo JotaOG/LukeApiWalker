@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.show-data {
+  text-align: left;
+  margin-left: 610px;
+  font-size: 22px;
+  color: blue
+}
+.show-p {
+  text-align: left;
+  margin-left: -110px;
+  font-size: 22px;
+  color: blue
+}
